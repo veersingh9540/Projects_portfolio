@@ -1,2 +1,0 @@
-# -Blood-Bank-Database-MySQL-NoSQL
-The entire project was carried out on a server connected to a MySQL workbench (for database access). Additionally, in order to do data visualization and examine the various scenarios of SQL queries, a connection between the database and the python language was made using the jupyter notebook. The NoSQL database (MongoDB) used for this project's implementation was also quite good at handling queries.
