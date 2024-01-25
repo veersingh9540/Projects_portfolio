@@ -1,5 +1,5 @@
 # Object_detection_OpenCV
-# this project is also associated with the Blind spot detection project of the hackathon I won during my bachelors (Bachelor of engineering in Computer science) study.
+# this project is also associated with the Blind spot detection project of the hackathon I won during my Bachelor of engineering in Computer science.
 
 Issued by Dy Patil institute of engineering and technology · Jan 2020
 The winner of the 2020 Appathon created a Bluetooth-based IoT-based application for road surveillance that uses OpenCV object detection.
