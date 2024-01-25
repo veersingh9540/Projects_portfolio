@@ -1,4 +1,2 @@
-# :rocket: Hello, This is My Machine learning project Portfolio (Personal Projects).
-# These projects have showcased my EDA, scikit-learn Skills.
+# These projects have been designed for showcasing the MYSQL/NoSQL, performing EDA, data cleaning.
 
-# Couple of more projects on the way, 
