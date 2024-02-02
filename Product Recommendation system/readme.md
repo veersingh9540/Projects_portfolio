@@ -12,11 +12,7 @@ Welcome to the Product Recommendation System project! This machine learning-base
 
 - **Data Visualization:**
   - Utilized Matplotlib and Seaborn for effective data visualization.
-  - Demonstrated proficiency in creating insightful visualizations to aid in understanding the recommendation model's performance.
-
-- **Web Application Integration:**
-  - Presented the recommendation model as a ReactJS-based web application.
-  - Seamlessly integrated the system with the online retail platform to provide a user-friendly experience.
+  - Demonstrated proficiency in creating insightful visualizations to aid in understanding the recommendation model's performance
 
 ## Technologies Used
 
