@@ -1,5 +1,5 @@
 
-# Data Science Projects Repository
+# Application Dev and Data Science Projects Repository
 # :rocket: Overview
 Welcome to my GitHub repository showcasing a variety of data science projects. This collection covers both basic and advanced projects, providing a comprehensive journey through the world of data science.
 
